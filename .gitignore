@@ -1,0 +1,5 @@
+*
+!.gitignore
+!platformio.ini
+!src/
+!src/main.cpp
